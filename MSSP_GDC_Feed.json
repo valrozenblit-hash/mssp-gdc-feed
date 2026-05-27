@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "description": "MSSP Generic Data Center project lab feed",
+  "objects": [
+    {
+      "name": "MSSP-TelAviv-DataCenter",
+      "id": "eca7596a-51e2-4f35-994a-84e7d8d833fe",
+      "description": "Tel Aviv main data center address pool",
+      "ranges": [
+        "91.198.174.192",
+        "20.0.0.0/24",
+        "10.1.1.2-10.1.1.10"
+      ]
+    }
+  ]
+}
